@@ -5,7 +5,7 @@ Our goal is to create a robot arm that is like a claw machine and picks up nerds
 ### Resources
 Acrylic, 4 servos, 3D cut pieces, screws and nuts, metro express, 9v batteries and battery pack, wires, and other pieces for the wiring.
 ### Images
-
+![alt text](RobotArm/planning_sketch.png)
 ### Schedule
 ##### Finish uploading plan to GitHub by Friday 2/21
 ##### Finish rough draft of  Solidworks parts by Friday 2/28
